@@ -1,0 +1,21 @@
+# Arquivos de ambiente locais
+.env
+.env.local
+.env.*.local
+
+# Logs e arquivos temporários
+*.log
+logs/
+tmp/
+temp/
+
+# Dependências do Composer / Node se houver
+/vendor/
+/node_modules/
+
+# Arquivos de IDE e Sistema Operacional
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.swp
