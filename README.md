@@ -1,7 +1,4 @@
 
-# landing-page-infraestrutura-redes
-Landing page para divulgação de serviços de infraestrutura de redes, desenvolvida com PHP, MySQL, JavaScript e CSS, utilizando IA como ferramenta de apoio ao desenvolvimento.
-
 # NexusRedes — Landing Page de Infraestrutura de Redes de Alta Performance
 
 Projeto profissional e moderno de **Landing Page para Divulgação de Serviços de Infraestrutura de Redes e Captação de Leads**, desenvolvido com foco em alta conversão, design futurista/tecnológico, validações completas de ponta a ponta e rígidas camadas de segurança da informação.
